@@ -43,12 +43,12 @@ graph are weighted with a profit value which is based on the suggestions of ento
 numpy
 pandas
 sympy
-networkx
-mknapsack
-matplotlib
+statistics
+copy
+time
 pickle
 scipy
-docplex
+subprocess
 ```
 
 ## Run Example
