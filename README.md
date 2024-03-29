@@ -36,7 +36,7 @@ graph are weighted with a profit value which is based on the suggestions of ento
 -  `/ccp`: the folder contains the true implementation of the algorithms in C++ code
   - `/orchards`: the folder contains the problem instances converted in format suitable for C++ code
 
-**Remember:** put inside the code directory the C++ compiled file; the name must be `cpp.exe`.
+**Remember:** put inside the `/code` directory the C++ compiled file; the name must be `cpp.exe`.
 
 ## Python Libraries Required
 ```
