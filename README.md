@@ -53,7 +53,7 @@ subprocess
 
 ## Run Example
 
-To get started with using the codebase and exploring the algorithms proposed in the MDMP paper:
+To get started with using the codebase and exploring the algorithms proposed for solving the SAOP:
 
 1. Clone this repository: `git clone https://github.com/TheAnswer96/TOSN_SOAP.git`.
 2. Install the required libraries cited into the above section.
